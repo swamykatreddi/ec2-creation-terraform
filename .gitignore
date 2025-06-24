@@ -1,0 +1,6 @@
+terraform.log
+terraform.tfstate
+terraform.tfstate.backup
+creds.md
+.terraform
+.terraform.lock.hcl
